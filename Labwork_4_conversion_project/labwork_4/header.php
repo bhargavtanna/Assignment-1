@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Visualize by TEMPLATED</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+	</head>
+	<body>
+<header id="header">
+						<span class="avatar"><img src="images/bhargav.jpg" alt="" /></span>
+						<h1>This is <strong>Visualize</strong>, a responsive site template designed by <a href="http://templated.co">TEMPLATED</a><br />
+						and released for free under the Creative Commons License.</h1>
+						<ul class="icons">
+							<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon style2 fa-500px"><span class="label">500px</span></a></li>
+							<li><a href="#" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+						</ul>
+					</header>
