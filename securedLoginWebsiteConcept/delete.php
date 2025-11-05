@@ -1,0 +1,8 @@
+<?php
+include('config.php');
+if (!isset($_SESSION['user'])) header("Location: index.php");
+
+$id = $_GET['id'];
+$mysqli->query("DELETE FROM employees WHERE id=$id");
+header("Location: dashboard.php");
+?>
